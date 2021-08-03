@@ -1,1 +1,7 @@
 # codebase
+
+## Shell
+
+## PowerShell
+
+## Python
